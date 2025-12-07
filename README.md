@@ -1,5 +1,5 @@
 # kaifa
 这是一个测试
 this is test~~~
-no some thing
-i like it
+nothing
+主要是做备份测试用
